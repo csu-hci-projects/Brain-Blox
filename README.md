@@ -18,8 +18,8 @@ Website: https://cs.colostate.edu/~majeda/#/brain-blox
 * Email finish times and screenshots for both attempts to cs464projectresult@gmail.com 
 * BE SURE TO MENTION GROUP ASSIGNED (written first or video first) Thank you for playing!
 
-video instructions: https://youtu.be/cv6WxvXKERk 
-written instructions: https://docs.google.com/document/d/1_uNIrylpBuUnjYVhJd5CsWEQHqU4J8qL2ULDbWGsgPc/edit?usp=sharing 
+**video instructions**: https://youtu.be/cv6WxvXKERk 
+**written instructions**: https://docs.google.com/document/d/1_uNIrylpBuUnjYVhJd5CsWEQHqU4J8qL2ULDbWGsgPc/edit?usp=sharing 
 
 # Downloads
 
