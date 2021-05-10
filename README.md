@@ -5,7 +5,7 @@ READ ME	|
 Playable game found at: https://play.unity.com/mg/other/webglbuilds-58
 
 Website: https://cs.colostate.edu/~majeda/#/brain-blox
----------
+
 # Instructions given to participants:
 * Arrow keys to move the camera. Mouse to drag and drop puzzle pieces 
 * Play the practice level (Parthenon) to get used to controls. 
