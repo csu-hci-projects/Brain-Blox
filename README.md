@@ -21,8 +21,12 @@ Website: https://cs.colostate.edu/~majeda/#/brain-blox
 video instructions: https://youtu.be/cv6WxvXKERk 
 written instructions: https://docs.google.com/document/d/1_uNIrylpBuUnjYVhJd5CsWEQHqU4J8qL2ULDbWGsgPc/edit?usp=sharing 
 
-# Changes from original 
+# Downloads
+
+This repository can be downloaded, extracted, and opened in Unity. It has been modified to reduce size for this repository.
+
+## Changes from original 
 * Scene 1 (B52-Bomber) has been completely removed to reduce space. It is also not available on playable game on Unity Play
-* WebGL package has been removed to save space
+* WebGL package has been removed to save space Found at https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API or Unity Packages
 * Textures and building available on playable game in the Parthenon(Practice) level not available on this version, replaced with other textures
 * Main level Tetris Cube is unchanged
